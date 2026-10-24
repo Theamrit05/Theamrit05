@@ -1,83 +1,80 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:7c3aed&text=AMRIT%20SHARMA&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20CSE%20Undergraduate&descAlignY=60&descSize=18" width="100%" alt="Amrit Sharma banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:111827,55:172554,100:0f766e&text=AMRIT%20SHARMA&fontSize=46&fontColor=F8FAFC&fontAlignY=42&desc=Computer%20Science%20%7C%20Software%20Development&descSize=17&descAlignY=67" alt="Amrit Sharma — Computer Science and Software Development"/>
 
-### 👋 Hey there! I'm Amrit
+<br/>
 
-**Computer Science Engineering Student • Developer • Problem Solver**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Theamrit05-181717?style=for-the-badge&logo=github)](https://github.com/Theamrit05)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-theamrit05-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/theamrit05/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amritsharma5563@gmail.com)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+ideas+into+real+projects;Learning+DSA+and+modern+web+development;Code.+Create.+Improve.+Repeat." alt="Typing introduction"/>
+<a href="https://github.com/Theamrit05"><img src="https://img.shields.io/badge/GitHub-Profile-111827?style=flat-square&logo=github" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/theamrit05/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
+<a href="mailto:amritsharma5563@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0F766E?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
----
+## Profile
 
-## 🚀 About Me
+I’m **Amrit Sharma**, a Computer Science & Engineering undergraduate at **Ambalika Institute of Management and Technology**, affiliated with AKTU (2025–2029). I’m building my foundation in software development through hands-on projects, programming practice, and continuous learning.
 
-- 🎓 **B.Tech in Computer Science & Engineering** at Ambalika Institute of Management and Technology (AKTU), **2025–2029**
-- 📍 Based in **Lucknow, India**
-- 💻 Interested in **software engineering, full-stack development, AI and automation**
-- 🧠 Practicing **data structures and algorithms** with Java
-- 🛠️ Love building useful applications and refining their user experience
+My current interests include **Java, data structures and algorithms, web development, and practical AI applications**. I enjoy taking an idea from concept to implementation, then improving it through testing and iteration.
 
-## 🧰 Tech Stack
+## Technical Skills
+
+**Languages**  
+![Java](https://img.shields.io/badge/Java-1F2937?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=3776AB)
+![C](https://img.shields.io/badge/C-1F2937?style=flat-square&logo=c&logoColor=A8B9CC)
+![C++](https://img.shields.io/badge/C%2B%2B-1F2937?style=flat-square&logo=cplusplus&logoColor=00599C)
+
+**Web technologies**  
+![HTML5](https://img.shields.io/badge/HTML5-1F2937?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1F2937?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1F2937?style=flat-square&logo=javascript&logoColor=F7DF1E)
+
+**Tools & platforms explored**  
+![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=flat-square&logo=github)
+![Supabase](https://img.shields.io/badge/Supabase-1F2937?style=flat-square&logo=supabase&logoColor=3FCF8E)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-1F2937?style=flat-square&logo=cloudflare&logoColor=F38020)
+
+## Selected Projects
+
+### JPS Library
+A library website concept focused on seat discovery and booking workflows, with attention to usability and responsive design.
+
+### Zoya AI
+An AI-assistant project exploring a web-connected interface and backend integration.
+
+### Smart Attendance AI
+A college attendance-system concept exploring face recognition, attendance rules, and cloud-backed records.
+
+### Java & DSA Practice
+Ongoing programming practice focused on strengthening problem-solving skills and core computer science fundamentals.
+
+> These summaries include projects and concepts at different stages of development. Explore the repositories for the current implementation and available code.
+
+## GitHub Overview
 
 <div align="center">
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Theamrit05&show_icons=true&rank_icon=github&theme=transparent&hide_border=true&title_color=0F766E&icon_color=0F766E&text_color=64748B" alt="GitHub account statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theamrit05&layout=compact&theme=transparent&hide_border=true&title_color=0F766E&text_color=64748B" alt="Most-used languages on GitHub"/>
 </div>
 
-## 🌟 Featured Work
-
-| Project | Focus |
-| :--- | :--- |
-| **JPS Library** | Library website and seat-booking experience |
-| **Zoya AI** | AI assistant and backend experiments |
-| **Smart Attendance AI** | Face-recognition attendance system concept |
-| **Java DSA Practice** | Problem solving and algorithmic thinking |
-
-> Projects represent a mix of builds, experiments, and ongoing work.
-
-## 📊 GitHub Insights
-
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Theamrit05&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theamrit05&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-
-<img src="https://streak-stats.demolab.com?user=Theamrit05&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Theamrit05&bg_color=00000000&color=64748b&line=0f766e&point=0f766e&area=true&hide_border=true" alt="GitHub contribution activity"/>
 </div>
 
-## 🐍 Contribution Journey
+## Education
+
+**B.Tech — Computer Science & Engineering**  
+Ambalika Institute of Management and Technology · AKTU  
+2025–2029
+
+## Get in Touch
+
+- **Email:** [amritsharma5563@gmail.com](mailto:amritsharma5563@gmail.com)
+- **LinkedIn:** [linkedin.com/in/theamrit05](https://www.linkedin.com/in/theamrit05/)
+- **GitHub:** [github.com/Theamrit05](https://github.com/Theamrit05)
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Theamrit05&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution activity graph"/>
-
-</div>
-
-## 🤝 Let's Connect
-
-I'm always excited to learn, collaborate, and build something meaningful.
-
-📫 **Email:** amritsharma5563@gmail.com
-
-<div align="center">
-
-**✨ Turning curiosity into code, one commit at a time. ✨**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:0f172a,50:2563eb,100:7c3aed" width="100%" alt="Footer"/>
+*Learning consistently. Building thoughtfully. Improving with every project.*
 
 </div>
