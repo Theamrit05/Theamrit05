@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset=".55" stop-color="#10284b"/><stop offset="1" stop-color="#063b52"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#2563eb" stop-opacity=".45"/><stop offset="1" stop-color="#2563eb" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="300" rx="22" fill="url(#bg)"/>
+<circle cx="1000" cy="120" r="260" fill="url(#glow)"/>
+<g fill="none" stroke="#38bdf8" stroke-opacity=".22"><path d="M760 0V300M820 0V300M880 0V300M940 0V300M1000 0V300M1060 0V300M1120 0V300"/><path d="M700 60H1200M700 120H1200M700 180H1200M700 240H1200"/></g>
+<path d="M790 300 L990 0 H1080 L900 300Z" fill="#2563eb" opacity=".16"/><path d="M930 300 L1110 0 H1150 L980 300Z" fill="#22d3ee" opacity=".18"/>
+<text x="68" y="58" fill="#7dd3fc" font-family="Arial,sans-serif" font-size="18" letter-spacing="5">CODE • BUILD • LEARN • GROW</text>
+<text x="64" y="145" fill="#f8fafc" font-family="Arial,sans-serif" font-weight="700" font-size="58">AMRIT <tspan fill="url(#accent)">SHARMA</tspan></text>
+<text x="68" y="190" fill="#dbeafe" font-family="Arial,sans-serif" font-size="22">Computer Science Engineering Student</text>
+<text x="68" y="228" fill="#94a3b8" font-family="Arial,sans-serif" font-size="17">Java  /  Python  /  C++  /  Web Development  /  AI &amp; Automation</text>
+<rect x="68" y="252" width="265" height="4" rx="2" fill="url(#accent)"/>
+<g transform="translate(1000 145)" stroke="url(#accent)" stroke-width="4" fill="none"><path d="M-68 -35L-105 0L-68 35M68 -35L105 0L68 35M22 -54L-22 54"/><circle r="126" stroke-opacity=".35" stroke-dasharray="8 12"/></g>
+<text x="1125" y="270" text-anchor="end" fill="#bae6fd" font-family="Arial,sans-serif" font-size="14" letter-spacing="2">BUILD WHAT MATTERS</text>
+</svg>
