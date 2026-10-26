@@ -92,6 +92,43 @@ An Instagram OSINT tooling repository. Please refer to its project documentation
 </tr>
 </table>
 
+## Developer Dashboard
+
+<div align="center">
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Theamrit05&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&bg_color=0d1117&title_color=38bdf8&icon_color=a78bfa&text_color=e2e8f0" alt="Amrit's GitHub statistics"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theamrit05&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0" alt="Most used programming languages"/>
+
+</td>
+<td width="42%" valign="top">
+
+<a href="https://github.com/Theamrit05">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Theamrit05&theme=github_dark" alt="GitHub profile summary"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Theamrit05?tab=repositories">
+<img width="100%" src="https://img.shields.io/badge/Explore-My%20Repositories-161b22?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Theamrit05&bg_color=0d1117&color=38bdf8&line=6366f1&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph"/>
+
+</div>
+
+---
+
 ## GitHub Overview
 
 <div align="center">
